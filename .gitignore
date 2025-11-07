@@ -2,7 +2,7 @@
 
 # Ignore model weights
 *.pth
-cnn
+
 
 # Ignore data folders
 data/
