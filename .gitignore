@@ -1,1 +1,13 @@
- cnn
+# .gitignore
+
+# Ignore model weights
+*.pth
+
+# Ignore data folders
+data/
+Skin_Data/
+
+# Ignore logs and temp files
+*.log
+*.txt
+__pycache__/
